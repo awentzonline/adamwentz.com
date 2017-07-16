@@ -79,3 +79,7 @@ body {
     border-bottom: 0;
   }
 }
+
+marquee {
+  float: right;
+}
